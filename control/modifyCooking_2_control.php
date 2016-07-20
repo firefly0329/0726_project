@@ -22,6 +22,9 @@ if(isset($_POST["submit"])){
     move_uploaded_file($_FILES['file']['tmp_name'],'image/'.$imgId);
     $time = date("Y/m/d");
     //修改
+    if(!$_FILES["file"]["tmp_name"]){
+        $imgId = $row['picture'];
+    }
     $result = $modle->changeMenu($_GET['cookingId'],$_POST['dishName'],$_SESSION['account'],
         $imgId,$_POST['difficult'],$_POST['class'],$time,$_POST['make'],$_POST['ps'],
         $_POST['stuff'],$_GET['cookingId']);
