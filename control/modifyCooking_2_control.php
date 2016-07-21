@@ -12,7 +12,7 @@ $row['make'] = preg_replace('/<br\\s*?\/??>/i','',$row['make']);
 
 //判斷是否為作者
 if($_SESSION['account'] != $row['writer']){
-    echo "<script>alert('您不是本篇作者');location.href='../repice.php';</script>";
+    echo "<script>alert('您不是本篇作者');location.href='../index.php';</script>";
 }
 
 
@@ -29,7 +29,7 @@ if(isset($_POST["submit"])){
     $result = $modle->changeMenu($_GET['cookingId'],$_POST['dishName'],$_SESSION['account'],
         $imgId,$_POST['difficult'],$_POST['class'],$time,$_POST['make'],$_POST['ps'],
         $_POST['stuff'],$_GET['cookingId']);
-    echo "<script>alert('修改完成');location.href='../repice.php';</script>";
+    echo "<script>alert('修改完成');location.href='../index.php';</script>";
 }
 
  

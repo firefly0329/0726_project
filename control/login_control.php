@@ -15,7 +15,7 @@ if(isset($_POST["register"])){
     header("location: register.php");
 }
 if(isset($_POST["visitor"])){
-    header("location: ../repice.php");
+    header("location: ../index.php");
 }
 
 
@@ -24,7 +24,7 @@ function login($result){
     while($row = mysql_fetch_assoc($result)){
         if($row['account'] == $_POST['account'] && $row['password'] == $_POST['password']){
             echo $_SESSION['account'] = $row['name'];
-            echo "<script>alert('登入成功，系統將自動跳轉至主頁面');location.href='../repice.php';</script>";
+            echo "<script>alert('登入成功，系統將自動跳轉至主頁面');location.href='../index.php';</script>";
         }
     }
     // echo "<script>alert('登入成功')</script>";

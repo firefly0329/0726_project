@@ -8,5 +8,5 @@ $model = new deleteCooking_2_model;
 $result = $model->deleteMenu($_GET['cookingId']);
 
 echo "<script>alert('刪除成功!!');</script>";
-header("location: ../repice.php");
+header("location: ../index.php");
 ?>

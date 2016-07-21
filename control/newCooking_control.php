@@ -19,7 +19,7 @@ if(isset($_POST["submit"])){
 
     $newCooking->setMenu($lastId,$_POST['dishName'],$_SESSION['account'],$imgId,$_POST['difficult'],$_POST['class'],$time,$_POST['make'],$_POST['ps'],$_POST['stuff']);
 
-    echo "<script>alert('新增完成');location.href='../repice.php';</script>";
+    echo "<script>alert('新增完成');location.href='../index.php';</script>";
 }
 
 //找出lastId

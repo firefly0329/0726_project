@@ -47,7 +47,7 @@
                 </form>
             </article>
             
-            <a href="../repice.php" class="fix">回主頁</a>
+            <a href="../index.php" class="fix">回主頁</a>
             
         </div>
 

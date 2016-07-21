@@ -13,7 +13,7 @@ if(isset($_POST["submit"])){
         $linkdb->setMember($lastId, $_POST['account'], $_POST['password'], $_POST['name']);
         
         $_SESSION['account'] = $_POST['name'];
-        echo "<script>alert('申請成功，系統將自動跳轉至主頁面');location.href='../repice.php';</script>";
+        echo "<script>alert('申請成功，系統將自動跳轉至主頁面');location.href='../index.php';</script>";
     }
 }
 if(isset($_POST["login"])){
