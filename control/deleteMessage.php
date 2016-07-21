@@ -1,11 +1,12 @@
 <?php
-    require_once('../model/db.php');
+    require_once('../model/deleteMessage_model.php');
     
-    $db1 = new db;
-    echo $messageId = $_GET['messageId'];
-    $grammer = "DELETE FROM `message` WHERE id like $messageId";
-    $result = $db1->link($grammer);
-    header("location: ../message.php?letter={$_GET['menuId']}");
+    $model = new deleteMessage;
+    $messageId = $_GET['messageId'];
+    $model->deleteMsg($messageId);
+    // $grammer = "DELETE FROM `message` WHERE id like $messageId";
+    // $result = $db1->link($grammer);
+    header("location: ../view/message.php?letter={$_GET['menuId']}");
 
 
 ?>

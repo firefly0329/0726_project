@@ -1,7 +1,7 @@
 <?php 
 
 //db
-require_once('model/connect_model.php');
+require_once('../model/connect_model.php');
 // require_once('model/db.php');
 $modle = new connect_modle;
 $letter = $_GET["letter"]; 
@@ -38,7 +38,9 @@ while($row = mysql_fetch_assoc($result)){
         }
     }
     
-    
+    for($i = 1; $i <= $row['difficult']; $i++){
+        $difficult .= "*";
+    }
     
 
     $data .= sprintf(
@@ -56,7 +58,7 @@ while($row = mysql_fetch_assoc($result)){
             <div class='grid-12 omega pd-t-1'>製作過程:<br>%s</div>
             <div class='grid-12 omega pd-t-1'>小提醒:<br>%s</div>
             <div class='grid-12 omega pd-t-3'>
-                <a href='modifyCooking_2.php?cookingId=%s'>修改</a>
+                <a href='view/modifyCooking_2.php?cookingId=%s'>修改</a>
                 <a onclick='click_delete(%s)'>刪除</a>
             </div>
             
@@ -64,13 +66,14 @@ while($row = mysql_fetch_assoc($result)){
         <div class='grid-12 omega pd-t-1 message cf pd-lr-5'>
             <h1 class=''>留言</h1><br>
             <p class=''>%s</p>
-            <br><br><a href='message.php?letter=%s'>新增/刪除留言</a>
+            <br><br><a href='view/message.php?letter=%s'>新增/刪除留言</a>
         </div>
     </article>"
-    ,$row['picture'], $row['dishName'], $row['difficult'], $row['writer'], 
+    ,$row['picture'], $row['dishName'], $difficult, $row['writer'], 
     $row['class'], $row['time'], $row['stuff'], $row['make'], $row['ps'], 
     $row['id'], $row['id'], $message, $row['id']);
     $message = "";
+    $difficult = "";
 }
 
 $data .= "<div id='totalPage'>$totalPage</div>";

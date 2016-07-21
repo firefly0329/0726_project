@@ -1,6 +1,6 @@
 <!--申請會員-->
 <?php 
-require_once('control/register_control.php');
+require_once('../control/register_control.php');
 ?>
 <!DOCTYPE html>
 <html>

@@ -1,7 +1,7 @@
 <?php
     session_start();
-    require_once('model/message_model.php');
-    require_once('control/login_check.php');
+    require_once('../model/message_model.php');
+    require_once('../control/login_check.php');
     
     $letter = $_GET["letter"];
     $model = new message_model;
@@ -13,7 +13,7 @@
     
     //主程式--新增留言
     if(isset($_POST['newMessageBtn'])){
-        
+        date_default_timezone_set('Asia/Taipei');
         $time = date("Y-m-d H:i:s");
         $_POST['message'] = str_replace("'","&#39",$_POST['message']);//將'換成&#39
         $model->setMessage($_SESSION['account'],$_POST['message'],$time,$letter);

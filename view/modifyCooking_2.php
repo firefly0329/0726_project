@@ -1,6 +1,6 @@
 <?php
 
-require_once('control/newCooking_control.php');
+require_once('../control/modifyCooking_2_control.php');
 
 ?>
 
@@ -9,19 +9,19 @@ require_once('control/newCooking_control.php');
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>sakamoto_menu</title>
-        <link rel="stylesheet" type="text/css" href="css/firefly_frame.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="css/UI.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="css/newCooking.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/firefly_frame.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/UI.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/newCooking.css" media="screen">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
         <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
     </head>
     <body>
-        <h1 class="pd-t-1">新增菜單</h1>
+        <h1 class="pd-t-1">修改菜單</h1>
         <form method="post" enctype="multipart/form-data">
             
             <div class="pd-t-3">
                 <lable class="">菜名:</lable>
-                <input class="" type="text" name="dishName" required="required" placeholder=" 菜名 "/>
+                <input class="" type="text" name="dishName" required="required" value="<?php echo $row['dishName']; ?>"/>
             </div>
                 
             <div class="w-100">
@@ -49,26 +49,26 @@ require_once('control/newCooking_control.php');
             
             <div class="w-100">
                 <lable>圖片:</lable>
-                <input type="file" name="file" required="required"/>
+                <input type="file" name="file"/>
             </div>
             
             <div class="w-100">
                 <lable class="">材料:</lable>
-                <textarea name="stuff" maxlength="200" required="required" placeholder=" 材料 "></textarea>
+                <textarea name="stuff" maxlength="200" required="required"><?php echo $row['stuff']; ?></textarea>
             </div>
                 
             <div class="w-100">
                 <lable>製作過程:</lable>
-                <textarea name="make" maxlength="2000" required="required" placeholder=" 製作過程 "></textarea>
+                <textarea name="make" maxlength="2000" required="required"><?php echo $row['make']; ?></textarea>
             </div>
                 
             <div class="w-100">
                 <lable>小提醒:</lable>
-                <textarea name="ps" maxlength="200" placeholder=" 小提醒 "></textarea>
+                <textarea name="ps" maxlength="200" ><?php echo $row['ps']; ?></textarea>
             </div>
             
             <div class="w-100">
-                <input type="submit" value="新增菜單" name="submit"/>
+                <input type="submit" value="確認送出" name="submit"/>
             </div>
             
         </form>

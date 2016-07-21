@@ -57,8 +57,7 @@ require_once('control/repice_control.php');
         </div>
         
         
-        
-        <!--fix3-->
+        <!--選單-->
         <div class="menuBlock">
             <select id="changeClass" class="">
                 <option value="">全部</option>
@@ -67,7 +66,8 @@ require_once('control/repice_control.php');
 		        <option value="">甜點</option>
 		        <option value="">飲品</option>
 		    </select> 
-		    <div id="changeClassBtn">更換</div>
+		    <!--<div id="changeClassBtn">更換</div>-->
+
 
 		    <form method="post">
     		    <?php if(!isset($_SESSION['account'])){ ?>
@@ -76,7 +76,7 @@ require_once('control/repice_control.php');
                     <input type="submit" value="登出會員" name="logout"/>
                 <?php } ?>
             </form>
-        <a href="newCooking.php">新增食譜</a>
+        <a href="view/newCooking.php">新增食譜</a>
         </div>
             
             <div class="menuBtn icon-menu"></div>
@@ -84,31 +84,9 @@ require_once('control/repice_control.php');
    
         <script type="text/javascript" src="js/ajax_connect.js"></script><!--ajax讀菜單-->
         <script type="text/javascript" src="js/changeCooking.js"></script><!--上下頁-->
-        <script type="text/javascript" src="js/menu_btn.js"></script>
-        <script>
-        function click_delete(x){
-            url = "control/deleteCooking.php?cookingId=" + x;
-			$.get(url, function(data){
-				if(data == true){
-				    if(confirm('您確定要刪除本篇文章?')){
-				        url = "control/deleteCooking_2.php?cookingId=" + x;
-				        alert('刪除成功!!');
-				        location.href = url;
-				    }
-				}else{
-				    alert("您不是本篇作者");
-				}
-			});
-        }
-        
-        
-        </script>
-        
-        
-        
+        <script type="text/javascript" src="js/menu_btn.js"></script><!--menu-->
+        <script type="text/javascript" src="js/deleteCooking.js"></script><!--刪除食譜-->
 
-    
-        
     </body>
     
 </html>

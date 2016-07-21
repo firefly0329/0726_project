@@ -1,11 +1,11 @@
 $(function(){
-    $("#changeClassBtn").click(function (){
+    $("#changeClass").change(function (){
 			x = $("#changeClass option:selected").text();
-			url = "connect.php?letter=" + x;
+			url = "view/connect.php?letter=" + x;
 			$.get(url, function(data){
 				$("#cooking").html(data);
 			})
 		});
-		$("#changeClassBtn").trigger("click");
+		$("#changeClass").trigger("change");
 		x = true;
 });

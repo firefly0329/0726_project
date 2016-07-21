@@ -6,6 +6,6 @@ if(isset($_POST["logout"])){
 }
 if(isset($_POST["login"])){
     unset($_SESSION['account']);
-    header("location: login.php");
+    header("location: view/login.php");
 }
 ?>

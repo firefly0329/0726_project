@@ -1,96 +1,293 @@
-[18-Jul-2016 02:50:41 UTC] PHP Warning:  require_once(db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[18-Jul-2016 02:50:41 UTC] PHP Stack trace:
-[18-Jul-2016 02:50:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[18-Jul-2016 02:50:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[18-Jul-2016 02:50:41 UTC] PHP Stack trace:
-[18-Jul-2016 02:50:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[18-Jul-2016 02:51:06 UTC] PHP Warning:  require_once(db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[18-Jul-2016 02:51:06 UTC] PHP Stack trace:
-[18-Jul-2016 02:51:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[18-Jul-2016 02:51:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[18-Jul-2016 02:51:06 UTC] PHP Stack trace:
-[18-Jul-2016 02:51:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[19-Jul-2016 03:04:39 UTC] PHP Warning:  require_once(db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[19-Jul-2016 03:04:39 UTC] PHP Stack trace:
-[19-Jul-2016 03:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[19-Jul-2016 03:04:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[19-Jul-2016 03:04:39 UTC] PHP Stack trace:
-[19-Jul-2016 03:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[19-Jul-2016 03:05:12 UTC] PHP Warning:  require_once(db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[19-Jul-2016 03:05:12 UTC] PHP Stack trace:
-[19-Jul-2016 03:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[19-Jul-2016 03:05:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[19-Jul-2016 03:05:12 UTC] PHP Stack trace:
-[19-Jul-2016 03:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 02:13:02 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 02:13:02 UTC] PHP Stack trace:
-[20-Jul-2016 02:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 02:13:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 02:13:02 UTC] PHP Stack trace:
-[20-Jul-2016 02:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 02:13:11 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 02:13:11 UTC] PHP Stack trace:
-[20-Jul-2016 02:13:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 02:13:11 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 02:13:11 UTC] PHP Stack trace:
-[20-Jul-2016 02:13:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:36:33 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:36:33 UTC] PHP Stack trace:
-[20-Jul-2016 03:36:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:36:33 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:36:33 UTC] PHP Stack trace:
-[20-Jul-2016 03:36:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:18 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:18 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:18 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:39 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:39 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:39 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:39 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:48 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:48 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:37:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:37:48 UTC] PHP Stack trace:
-[20-Jul-2016 03:37:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:39:26 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:39:26 UTC] PHP Stack trace:
-[20-Jul-2016 03:39:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:39:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:39:26 UTC] PHP Stack trace:
-[20-Jul-2016 03:39:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:40:54 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:40:54 UTC] PHP Stack trace:
-[20-Jul-2016 03:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:40:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 2
-[20-Jul-2016 03:40:54 UTC] PHP Stack trace:
-[20-Jul-2016 03:40:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
-[20-Jul-2016 03:52:13 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:13 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:52:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:13 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:52:15 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:15 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:52:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:15 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:52:18 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:18 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:52:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php on line 4
-[20-Jul-2016 03:52:18 UTC] PHP Stack trace:
-[20-Jul-2016 03:52:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking.php:0
-[20-Jul-2016 03:54:13 UTC] PHP Warning:  require_once(../db/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking_2.php on line 4
-[20-Jul-2016 03:54:13 UTC] PHP Stack trace:
-[20-Jul-2016 03:54:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking_2.php:0
-[20-Jul-2016 03:54:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../db/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/deleteCooking_2.php on line 4
-[20-Jul-2016 03:54:13 UTC] PHP Stack trace:
-[20-Jul-2016 03:54:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteCooking_2.php:0
+[21-Jul-2016 03:33:26 UTC] PHP Warning:  require_once(model/register_model.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/register_control.php on line 3
+[21-Jul-2016 03:33:26 UTC] PHP Stack trace:
+[21-Jul-2016 03:33:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:33:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/register.php:3
+[21-Jul-2016 03:33:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'model/register_model.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/register_control.php on line 3
+[21-Jul-2016 03:33:26 UTC] PHP Stack trace:
+[21-Jul-2016 03:33:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:33:26 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/register.php:3
+[21-Jul-2016 03:38:06 UTC] PHP Warning:  require_once(model/login_model.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/login_control.php on line 4
+[21-Jul-2016 03:38:06 UTC] PHP Stack trace:
+[21-Jul-2016 03:38:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/login.php:0
+[21-Jul-2016 03:38:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/login.php:4
+[21-Jul-2016 03:38:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'model/login_model.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/login_control.php on line 4
+[21-Jul-2016 03:38:06 UTC] PHP Stack trace:
+[21-Jul-2016 03:38:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/login.php:0
+[21-Jul-2016 03:38:06 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/login.php:4
+[21-Jul-2016 03:38:14 UTC] PHP Warning:  require_once(model/login_model.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/login_control.php on line 4
+[21-Jul-2016 03:38:14 UTC] PHP Stack trace:
+[21-Jul-2016 03:38:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/login.php:0
+[21-Jul-2016 03:38:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/login.php:4
+[21-Jul-2016 03:38:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'model/login_model.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/login_control.php on line 4
+[21-Jul-2016 03:38:14 UTC] PHP Stack trace:
+[21-Jul-2016 03:38:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/login.php:0
+[21-Jul-2016 03:38:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/login.php:4
+[21-Jul-2016 03:40:36 UTC] PHP Warning:  require_once(control/register_control.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:40:36 UTC] PHP Stack trace:
+[21-Jul-2016 03:40:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:40:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'control/register_control.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:40:36 UTC] PHP Stack trace:
+[21-Jul-2016 03:40:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:40:51 UTC] PHP Warning:  require_once(control/register_control.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:40:51 UTC] PHP Stack trace:
+[21-Jul-2016 03:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:40:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'control/register_control.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:40:51 UTC] PHP Stack trace:
+[21-Jul-2016 03:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:41:39 UTC] PHP Warning:  require_once(control/register_control.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:41:39 UTC] PHP Stack trace:
+[21-Jul-2016 03:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:41:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'control/register_control.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/view/register.php on line 3
+[21-Jul-2016 03:41:39 UTC] PHP Stack trace:
+[21-Jul-2016 03:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/register.php:0
+[21-Jul-2016 03:45:33 UTC] PHP Warning:  require_once(control/login_check.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 5
+[21-Jul-2016 03:45:33 UTC] PHP Stack trace:
+[21-Jul-2016 03:45:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:45:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:45:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'control/login_check.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 5
+[21-Jul-2016 03:45:33 UTC] PHP Stack trace:
+[21-Jul-2016 03:45:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:45:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:46:57 UTC] PHP Warning:  move_uploaded_file(image/9.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 16
+[21-Jul-2016 03:46:57 UTC] PHP Stack trace:
+[21-Jul-2016 03:46:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:46:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:46:57 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php:16
+[21-Jul-2016 03:46:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2xNFOU' to 'image/9.jpg' in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 16
+[21-Jul-2016 03:46:57 UTC] PHP Stack trace:
+[21-Jul-2016 03:46:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:46:57 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:46:57 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php:16
+[21-Jul-2016 03:47:44 UTC] PHP Warning:  move_uploaded_file(image/10.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 16
+[21-Jul-2016 03:47:44 UTC] PHP Stack trace:
+[21-Jul-2016 03:47:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:47:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:47:44 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php:16
+[21-Jul-2016 03:47:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpB4P7Hk' to 'image/10.jpg' in /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php on line 16
+[21-Jul-2016 03:47:44 UTC] PHP Stack trace:
+[21-Jul-2016 03:47:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:0
+[21-Jul-2016 03:47:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/sakamoto_work/view/newCooking.php:3
+[21-Jul-2016 03:47:44 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/sakamoto_work/control/newCooking_control.php:16
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:45 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:45 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:45 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:50 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:50 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:50 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:50 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:50 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:50 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:50 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:50 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:50 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:50 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:50 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:50 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:52 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:52 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:52 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:52 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:52 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:52 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:53 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:53 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:53 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:53 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:53 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:53 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:04:59 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:04:59 UTC] PHP Stack trace:
+[21-Jul-2016 04:04:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:04:59 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:03 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:03 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:03 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:05 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:05 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:05 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:05 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:05 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:05 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:05 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:05 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:05 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:07 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:07 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:07 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:05:07 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:05:07 UTC] PHP Stack trace:
+[21-Jul-2016 04:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:05:07 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:35 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 04:13:35 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 04:13:35 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 04:13:49 UTC] PHP Fatal error:  Class 'deleteMessage' not found in /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php on line 4
+[21-Jul-2016 04:13:49 UTC] PHP Stack trace:
+[21-Jul-2016 04:13:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/deleteMessage.php:0
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33
+[21-Jul-2016 05:34:38 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/view/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[21-Jul-2016 05:34:38 UTC] PHP Stack trace:
+[21-Jul-2016 05:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/view/connect.php:0
+[21-Jul-2016 05:34:38 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/view/connect.php:33

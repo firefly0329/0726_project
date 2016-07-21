@@ -2,7 +2,7 @@ $(function(){
             $('.menuBtn').click(function(){
                 $('.menuBlock').toggleClass('menuBlock_btn');
             });
-            $('#changeClassBtn').click(function(){
+            $('#changeClass').change(function(){
                 $('.menuBlock').toggleClass('menuBlock_btn');
             });
         });  

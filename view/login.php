@@ -1,7 +1,7 @@
 <!--會員登入-->
 <?php
 session_start();
-require_once('control/login_control.php');
+require_once('../control/login_control.php');
 
 
 ?>

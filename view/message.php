@@ -1,17 +1,13 @@
 <?php
-    require_once('control/message_control.php');
-
+    require_once('../control/message_control.php');
 ?>
-
-
-<!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>sakamoto_menu</title>
-        <link rel="stylesheet" type="text/css" href="css/firefly_frame.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="css/UI.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="css/message.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/firefly_frame.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/UI.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../css/message.css" media="screen">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
         <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
     </head>
@@ -20,7 +16,7 @@
             <h1 class="pd-t-1">留言</h1>
             <div class="menu pd-t-3"><!--menu-->
                 <div class="w-50 float-l">
-                    <img src='image/<?php echo $row2 ['picture']; ?>' class=""></img>
+                    <img src='../image/<?php echo $row2 ['picture']; ?>' class=""></img>
                 </div>
                 <div class="w-50 float-l bgc-1">
                     <div class="w-100 omega pd-t-5"><h2><?php echo $row2['dishName']; ?></h2></div>
@@ -51,20 +47,17 @@
                 </form>
             </article>
             
-            <a href="repice.php" class="fix">回主頁</a>
+            <a href="../repice.php" class="fix">回主頁</a>
             
         </div>
-        
-        
-        
-        
+
+ 
         <script>
             function deleteMessage(x,y){
                 if(confirm('您確定要刪除本篇文章?')){
-                    url = "control/deleteMessage.php?messageId=" + x + "&menuId=" + y;
+                    url = "../control/deleteMessage.php?messageId=" + x + "&menuId=" + y;
                     alert("刪除成功");
                     location.href = url;
-                    
                 }
             }
         </script>
