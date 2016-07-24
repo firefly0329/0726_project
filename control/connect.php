@@ -41,7 +41,6 @@ while($row = mysql_fetch_assoc($result)){
     for($i = 1; $i <= $row['difficult']; $i++){
         $difficult .= "*";
     }
-    
 
     $data .= sprintf(
     "<article class='grid-12 omega bgc-1'>

@@ -1,0 +1,1 @@
+改成MVC架構請看tryMVC repository
