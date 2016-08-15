@@ -2211,3 +2211,111 @@
 [22-Jul-2016 08:01:12 UTC] PHP Stack trace:
 [22-Jul-2016 08:01:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
 [22-Jul-2016 08:01:12 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:22 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:22 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:22 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:22 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:22 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:22 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:22 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:22 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:22 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:22 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:22 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:22 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:22 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:22 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:22 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:23 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:23 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:23 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:23 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:23 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:23 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:23 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:23 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:23 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:05:23 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:05:23 UTC] PHP Stack trace:
+[25-Jul-2016 03:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:05:23 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:13 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:13 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:13 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
+[25-Jul-2016 03:10:51 UTC] PHP Warning:  Missing argument 1 for connect_modle::getMessage(), called in /home/ubuntu/workspace/sakamoto_work/control/connect.php on line 33 and defined in /home/ubuntu/workspace/sakamoto_work/model/connect_model.php on line 14
+[25-Jul-2016 03:10:51 UTC] PHP Stack trace:
+[25-Jul-2016 03:10:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/sakamoto_work/control/connect.php:0
+[25-Jul-2016 03:10:51 UTC] PHP   2. connect_modle->getMessage() /home/ubuntu/workspace/sakamoto_work/control/connect.php:33
